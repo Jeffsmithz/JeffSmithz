@@ -99,7 +99,7 @@ WhatsApp (Cloud API / provedor), Stripe/Pagar.me, Notion, Slack, Trello/Jira, Go
 ---
 
 ## 📬 Contato
-- 🌎 Site/Portfólio: **[https://SEU-PORTFOLIO](https://www.instagram.com/jefsmithx/**
+- 🌎 Site/Portfólio: **https://www.instagram.com/jefsmithx/**
 - 💼 LinkedIn: **https://linkedin.com/in/jefsmithx**
 - ✉️ E-mail: **Jeffsmithsilva@outlook.com**
 - 🧪 Playground/DEMOs: **link aqui**
